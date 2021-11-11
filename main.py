@@ -75,6 +75,6 @@ if uploaded_file is not None:
 
     st.image(img, caption='Uploaded Image.', use_column_width=True)
 
-
+st.write('presented by O.Naohiro')
 
 
